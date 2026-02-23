@@ -1,2 +1,1 @@
-# DreamScape
-DreamScape specializes in the discovery, and practical-use of sleep-therapies, and neural-networking components for AR/VR platforms that include many different aspects of BCI/EEG communication-frameworks to offer a diverse-array of solutions to modern-science, and technology for lab, and medical-research.
+XR‑Labs is a self‑hosted Rust control‑hub for XR and augmented‑citizen code, which also compiles and ships Kotlin/Android clients from the same biophysically safe core.
